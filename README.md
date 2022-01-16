@@ -1,3 +1,3 @@
 # metasound_ingame
 
-Demo project to show others how to work with MetaSound in UE5.
+Demo project to teach students how to work with MetaSound in UE5.
